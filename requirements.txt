@@ -16,7 +16,7 @@ httplib2==0.14.0
 idna==2.8
 jdcal==1.4.1
 mysqlclient==1.4.4
-numpy==1.17.2
+numpy==1.22.0
 odfpy==1.4.0
 openpyxl==3.0.0
 pandas==0.25.1
